@@ -1,0 +1,37 @@
+_repo: Essays-Upon-Some-Controverted-Questions_34698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+tableOfContents: 'The rise and progress of palæontology -- The interpreters of Genesis
+  and the interpreters of nature -- Mr. Gladstone and Genesis -- Note on the proper
+  sense of the "Mosaic" narrative of the creation -- The evolution of theology: an
+  anthropological study -- Science and morals -- Scientific and pseudo-scientific
+  realism -- Science and pseudo-science -- An Episcopal trilogy -- Agnosticism --
+  The value of witness to the miraculous -- Agnosticism: a rejoinder -- Agnosticism
+  and Christianity -- The lights of the church and the light of science -- The keepers
+  of the herd of swine -- Illustrations of Mr. Gladstone''s controversial methods
+  -- Hasisadra''s adventure.'
+title: Essays Upon Some Controverted Questions
+url: http://www.gutenberg.org/ebooks/34698
